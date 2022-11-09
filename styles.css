@@ -1,14 +1,9 @@
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
-
 body {
 	background: black;
 }
 
 .postcard {
-	background: white;
+	background: rgb(255, 255, 255);
 	width: 400px;
 	height: 300px;
 	margin: auto;
